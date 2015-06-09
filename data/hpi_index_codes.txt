@@ -1,0 +1,453 @@
+0|USA|National|1991-03-01
+1|AK|State|1991-03-01
+2|AL|State|1991-03-01
+3|AR|State|1991-03-01
+4|AZ|State|1991-03-01
+5|CA|State|1991-03-01
+6|CO|State|1991-03-01
+7|CT|State|1991-03-01
+8|DC|State|1991-03-01
+9|DE|State|1991-03-01
+10|FL|State|1991-03-01
+11|GA|State|1991-03-01
+12|HI|State|1991-03-01
+13|IA|State|1991-03-01
+14|ID|State|1991-03-01
+15|IL|State|1991-03-01
+16|IN|State|1991-03-01
+17|KS|State|1991-03-01
+18|KY|State|1991-03-01
+19|LA|State|1991-03-01
+20|MA|State|1991-03-01
+21|MD|State|1991-03-01
+22|ME|State|1991-03-01
+23|MI|State|1991-03-01
+24|MN|State|1991-03-01
+25|MO|State|1991-03-01
+26|MS|State|1991-03-01
+27|MT|State|1991-03-01
+28|NC|State|1991-03-01
+29|ND|State|1991-03-01
+30|NE|State|1991-03-01
+31|NH|State|1991-03-01
+32|NJ|State|1991-03-01
+33|NM|State|1991-03-01
+34|NV|State|1991-03-01
+35|NY|State|1991-03-01
+36|OH|State|1991-03-01
+37|OK|State|1991-03-01
+38|OR|State|1991-03-01
+39|PA|State|1991-03-01
+40|RI|State|1991-03-01
+41|SC|State|1991-03-01
+42|SD|State|1991-03-01
+43|TN|State|1991-03-01
+44|TX|State|1991-03-01
+45|UT|State|1991-03-01
+46|VA|State|1991-03-01
+47|VT|State|1991-03-01
+48|WA|State|1991-03-01
+49|WI|State|1991-03-01
+50|WV|State|1991-03-01
+51|WY|State|1991-03-01
+10180|Abilene, TX|MSA Purchase and Refi|1986-09-01
+10420|Akron, OH|MSA Purchase Only|1991-03-01
+10500|Albany, GA|MSA Purchase and Refi|1986-03-01
+10540|Albany, OR|MSA Purchase and Refi|1988-09-01
+10580|Albany-Schenectady-Troy, NY|MSA Purchase Only|1991-03-01
+10740|Albuquerque, NM|MSA Purchase Only|1991-03-01
+10780|Alexandria, LA|MSA Purchase and Refi|1986-06-01
+10900|Allentown-Bethlehem-Easton, PA-NJ|MSA Purchase Only|1991-03-01
+11020|Altoona, PA|MSA Purchase and Refi|1992-12-01
+11100|Amarillo, TX|MSA Purchase and Refi|1980-09-01
+11180|Ames, IA|MSA Purchase and Refi|1987-09-01
+11244|Anaheim-Santa Ana-Irvine, CA  (MSAD)|MSA Purchase Only|1991-03-01
+11260|Anchorage, AK|MSA Purchase and Refi|1978-09-01
+11460|Ann Arbor, MI|MSA Purchase and Refi|1978-06-01
+11500|Anniston-Oxford-Jacksonville, AL|MSA Purchase and Refi|1992-03-01
+11540|Appleton, WI|MSA Purchase and Refi|1985-06-01
+11700|Asheville, NC|MSA Purchase and Refi|1985-03-01
+12020|Athens-Clarke County, GA|MSA Purchase and Refi|1985-09-01
+12060|Atlanta-Sandy Springs-Roswell, GA|MSA Purchase Only|1991-03-01
+12100|Atlantic City-Hammonton, NJ|MSA Purchase and Refi|1983-06-01
+12220|Auburn-Opelika, AL|MSA Purchase and Refi|1987-12-01
+12260|Augusta-Richmond County, GA-SC|MSA Purchase and Refi|1979-12-01
+12420|Austin-Round Rock, TX|MSA Purchase Only|1991-03-01
+12540|Bakersfield, CA|MSA Purchase Only|1991-03-01
+12580|Baltimore-Columbia-Towson, MD|MSA Purchase Only|1991-03-01
+12620|Bangor, ME|MSA Purchase and Refi|1988-12-01
+12700|Barnstable Town, MA|MSA Purchase and Refi|1984-03-01
+12940|Baton Rouge, LA|MSA Purchase Only|1991-03-01
+12980|Battle Creek, MI|MSA Purchase and Refi|1986-06-01
+13020|Bay City, MI|MSA Purchase and Refi|1986-03-01
+13140|Beaumont-Port Arthur, TX|MSA Purchase and Refi|1978-09-01
+13220|Beckley, WV|MSA Purchase and Refi|1997-09-01
+13380|Bellingham, WA|MSA Purchase and Refi|1978-12-01
+13460|Bend-Redmond, OR|MSA Purchase and Refi|1985-09-01
+13740|Billings, MT|MSA Purchase and Refi|1986-03-01
+13780|Binghamton, NY|MSA Purchase and Refi|1984-03-01
+13820|Birmingham-Hoover, AL|MSA Purchase Only|1991-03-01
+13900|Bismarck, ND|MSA Purchase and Refi|1986-12-01
+13980|Blacksburg-Christiansburg-Radford, VA|MSA Purchase and Refi|1987-09-01
+14010|Bloomington, IL|MSA Purchase and Refi|1984-12-01
+14020|Bloomington, IN|MSA Purchase and Refi|1986-12-01
+14100|Bloomsburg-Berwick, PA|MSA Purchase and Refi|1993-09-01
+14260|Boise City, ID|MSA Purchase Only|1991-03-01
+14454|Boston, MA  (MSAD)|MSA Purchase Only|1991-03-01
+14500|Boulder, CO|MSA Purchase and Refi|1978-06-01
+14540|Bowling Green, KY|MSA Purchase and Refi|1986-12-01
+14740|Bremerton-Silverdale, WA|MSA Purchase and Refi|1979-12-01
+14860|Bridgeport-Stamford-Norwalk, CT|MSA Purchase Only|1991-03-01
+15180|Brownsville-Harlingen, TX|MSA Purchase and Refi|1989-03-01
+15260|Brunswick, GA|MSA Purchase and Refi|1986-06-01
+15380|Buffalo-Cheektowaga-Niagara Falls, NY|MSA Purchase Only|1991-03-01
+15500|Burlington, NC|MSA Purchase and Refi|1987-03-01
+15540|Burlington-South Burlington, VT|MSA Purchase and Refi|1985-03-01
+15680|California-Lexington Park, MD|MSA Purchase and Refi|1997-12-01
+15764|Cambridge-Newton-Framingham, MA  (MSAD)|MSA Purchase Only|1991-03-01
+15804|Camden, NJ  (MSAD)|MSA Purchase Only|1991-03-01
+15940|Canton-Massillon, OH|MSA Purchase and Refi|1977-06-01
+15980|Cape Coral-Fort Myers, FL|MSA Purchase Only|1991-03-01
+16020|Cape Girardeau, MO-IL|MSA Purchase and Refi|1987-06-01
+16060|Carbondale-Marion, IL|MSA Purchase and Refi|1993-06-01
+16180|Carson City, NV|MSA Purchase and Refi|1987-09-01
+16220|Casper, WY|MSA Purchase and Refi|1982-06-01
+16300|Cedar Rapids, IA|MSA Purchase and Refi|1979-06-01
+16540|Chambersburg-Waynesboro, PA|MSA Purchase and Refi|1989-12-01
+16580|Champaign-Urbana, IL|MSA Purchase and Refi|1985-09-01
+16620|Charleston, WV|MSA Purchase and Refi|1986-09-01
+16700|Charleston-North Charleston, SC|MSA Purchase Only|1991-03-01
+16740|Charlotte-Concord-Gastonia, NC-SC|MSA Purchase Only|1991-03-01
+16820|Charlottesville, VA|MSA Purchase and Refi|1983-09-01
+16860|Chattanooga, TN-GA|MSA Purchase and Refi|1982-06-01
+16940|Cheyenne, WY|MSA Purchase and Refi|1979-09-01
+16974|Chicago-Naperville-Arlington Heights, IL  (MSAD)|MSA Purchase Only|1991-03-01
+17020|Chico, CA|MSA Purchase and Refi|1979-06-01
+17140|Cincinnati, OH-KY-IN|MSA Purchase Only|1991-03-01
+17300|Clarksville, TN-KY|MSA Purchase and Refi|1992-09-01
+17420|Cleveland, TN|MSA Purchase and Refi|1992-03-01
+17460|Cleveland-Elyria, OH|MSA Purchase Only|1991-03-01
+17660|Coeur d'Alene, ID|MSA Purchase and Refi|1990-12-01
+17780|College Station-Bryan, TX|MSA Purchase and Refi|1983-12-01
+17820|Colorado Springs, CO|MSA Purchase Only|1991-03-01
+17860|Columbia, MO|MSA Purchase and Refi|1985-12-01
+17900|Columbia, SC|MSA Purchase Only|1991-03-01
+17980|Columbus, GA-AL|MSA Purchase and Refi|1986-03-01
+18020|Columbus, IN|MSA Purchase and Refi|1985-12-01
+18140|Columbus, OH|MSA Purchase Only|1991-03-01
+18580|Corpus Christi, TX|MSA Purchase and Refi|1979-06-01
+18700|Corvallis, OR|MSA Purchase and Refi|1984-03-01
+18880|Crestview-Fort Walton Beach-Destin, FL|MSA Purchase and Refi|1986-12-01
+19060|Cumberland, MD-WV|MSA Purchase and Refi|1994-06-01
+19124|Dallas-Plano-Irving, TX  (MSAD)|MSA Purchase Only|1991-03-01
+19140|Dalton, GA|MSA Purchase and Refi|1984-12-01
+19180|Danville, IL|MSA Purchase and Refi|1992-03-01
+19300|Daphne-Fairhope-Foley, AL|MSA Purchase and Refi|1989-09-01
+19340|Davenport-Moline-Rock Island, IA-IL|MSA Purchase and Refi|1978-09-01
+19380|Dayton, OH|MSA Purchase Only|1991-03-01
+19460|Decatur, AL|MSA Purchase and Refi|1987-06-01
+19500|Decatur, IL|MSA Purchase and Refi|1986-12-01
+19660|Deltona-Daytona Beach-Ormond Beach, FL|MSA Purchase and Refi|1978-06-01
+19740|Denver-Aurora-Lakewood, CO|MSA Purchase Only|1991-03-01
+19780|Des Moines-West Des Moines, IA|MSA Purchase and Refi|1977-09-01
+19804|Detroit-Dearborn-Livonia, MI  (MSAD)|MSA Purchase Only|1991-03-01
+20020|Dothan, AL|MSA Purchase and Refi|1989-09-01
+20100|Dover, DE|MSA Purchase and Refi|1987-09-01
+20220|Dubuque, IA|MSA Purchase and Refi|1986-09-01
+20260|Duluth, MN-WI|MSA Purchase and Refi|1986-09-01
+20500|Durham-Chapel Hill, NC|MSA Purchase and Refi|1978-12-01
+20524|Dutchess County-Putnam County, NY  (MSAD)|MSA Purchase and Refi|1983-03-01
+20700|East Stroudsburg, PA|MSA Purchase and Refi|1991-06-01
+20740|Eau Claire, WI|MSA Purchase and Refi|1983-09-01
+20940|El Centro, CA|MSA Purchase and Refi|1989-12-01
+20994|Elgin, IL  (MSAD)|MSA Purchase Only|1991-03-01
+21060|Elizabethtown-Fort Knox, KY|MSA Purchase and Refi|1993-09-01
+21140|Elkhart-Goshen, IN|MSA Purchase and Refi|1984-06-01
+21300|Elmira, NY|MSA Purchase and Refi|1991-03-01
+21340|El Paso, TX|MSA Purchase Only|1991-03-01
+21500|Erie, PA|MSA Purchase and Refi|1984-09-01
+21660|Eugene, OR|MSA Purchase and Refi|1977-09-01
+21780|Evansville, IN-KY|MSA Purchase and Refi|1980-09-01
+21820|Fairbanks, AK|MSA Purchase and Refi|1986-12-01
+22020|Fargo, ND-MN|MSA Purchase and Refi|1986-12-01
+22140|Farmington, NM|MSA Purchase and Refi|1985-03-01
+22180|Fayetteville, NC|MSA Purchase and Refi|1987-06-01
+22220|Fayetteville-Springdale-Rogers, AR-MO|MSA Purchase and Refi|1980-09-01
+22380|Flagstaff, AZ|MSA Purchase and Refi|1986-12-01
+22420|Flint, MI|MSA Purchase and Refi|1977-12-01
+22500|Florence, SC|MSA Purchase and Refi|1986-09-01
+22520|Florence-Muscle Shoals, AL|MSA Purchase and Refi|1991-12-01
+22540|Fond du Lac, WI|MSA Purchase and Refi|1986-06-01
+22660|Fort Collins, CO|MSA Purchase and Refi|1977-12-01
+22744|Fort Lauderdale-Pompano Beach-Deerfield Beach, FL  (MSAD)|MSA Purchase Only|1991-03-01
+22900|Fort Smith, AR-OK|MSA Purchase and Refi|1985-12-01
+23060|Fort Wayne, IN|MSA Purchase and Refi|1978-03-01
+23104|Fort Worth-Arlington, TX  (MSAD)|MSA Purchase Only|1991-03-01
+23420|Fresno, CA|MSA Purchase Only|1991-03-01
+23460|Gadsden, AL|MSA Purchase and Refi|1993-12-01
+23540|Gainesville, FL|MSA Purchase and Refi|1984-12-01
+23580|Gainesville, GA|MSA Purchase and Refi|1987-03-01
+23844|Gary, IN  (MSAD)|MSA Purchase Only|1991-03-01
+23900|Gettysburg, PA|MSA Purchase and Refi|1990-03-01
+24020|Glens Falls, NY|MSA Purchase and Refi|1991-09-01
+24140|Goldsboro, NC|MSA Purchase and Refi|1990-09-01
+24220|Grand Forks, ND-MN|MSA Purchase and Refi|1989-06-01
+24260|Grand Island, NE|MSA Purchase and Refi|1992-03-01
+24300|Grand Junction, CO|MSA Purchase and Refi|1979-09-01
+24340|Grand Rapids-Wyoming, MI|MSA Purchase Only|1991-03-01
+24420|Grants Pass, OR|MSA Purchase and Refi|1990-06-01
+24500|Great Falls, MT|MSA Purchase and Refi|1992-12-01
+24540|Greeley, CO|MSA Purchase and Refi|1985-03-01
+24580|Green Bay, WI|MSA Purchase and Refi|1985-09-01
+24660|Greensboro-High Point, NC|MSA Purchase Only|1991-03-01
+24780|Greenville, NC|MSA Purchase and Refi|1986-03-01
+24860|Greenville-Anderson-Mauldin, SC|MSA Purchase Only|1991-03-01
+25060|Gulfport-Biloxi-Pascagoula, MS|MSA Purchase and Refi|1986-09-01
+25180|Hagerstown-Martinsburg, MD-WV|MSA Purchase and Refi|1988-12-01
+25220|Hammond, LA|MSA Purchase and Refi|1994-03-01
+25260|Hanford-Corcoran, CA|MSA Purchase and Refi|1987-06-01
+25420|Harrisburg-Carlisle, PA|MSA Purchase and Refi|1979-09-01
+25500|Harrisonburg, VA|MSA Purchase and Refi|1986-12-01
+25540|Hartford-West Hartford-East Hartford, CT|MSA Purchase Only|1991-03-01
+25620|Hattiesburg, MS|MSA Purchase and Refi|1987-03-01
+25860|Hickory-Lenoir-Morganton, NC|MSA Purchase and Refi|1986-12-01
+25940|Hilton Head Island-Bluffton-Beaufort, SC|MSA Purchase and Refi|1987-03-01
+25980|Hinesville, GA|MSA Purchase and Refi|2000-12-01
+26140|Homosassa Springs, FL|MSA Purchase and Refi|1989-09-01
+26300|Hot Springs, AR|MSA Purchase and Refi|1992-06-01
+26380|Houma-Thibodaux, LA|MSA Purchase and Refi|1986-03-01
+26420|Houston-The Woodlands-Sugar Land, TX|MSA Purchase Only|1991-03-01
+26580|Huntington-Ashland, WV-KY-OH|MSA Purchase and Refi|1987-03-01
+26620|Huntsville, AL|MSA Purchase and Refi|1984-12-01
+26820|Idaho Falls, ID|MSA Purchase and Refi|1986-09-01
+26900|Indianapolis-Carmel-Anderson, IN|MSA Purchase Only|1991-03-01
+26980|Iowa City, IA|MSA Purchase and Refi|1986-06-01
+27060|Ithaca, NY|MSA Purchase and Refi|1987-06-01
+27100|Jackson, MI|MSA Purchase and Refi|1986-09-01
+27140|Jackson, MS|MSA Purchase and Refi|1980-12-01
+27180|Jackson, TN|MSA Purchase and Refi|1988-12-01
+27260|Jacksonville, FL|MSA Purchase Only|1991-03-01
+27340|Jacksonville, NC|MSA Purchase and Refi|1993-09-01
+27500|Janesville-Beloit, WI|MSA Purchase and Refi|1984-09-01
+27620|Jefferson City, MO|MSA Purchase and Refi|1986-06-01
+27740|Johnson City, TN|MSA Purchase and Refi|1992-03-01
+27780|Johnstown, PA|MSA Purchase and Refi|1995-09-01
+27860|Jonesboro, AR|MSA Purchase and Refi|1991-03-01
+27900|Joplin, MO|MSA Purchase and Refi|1988-03-01
+27980|Kahului-Wailuku-Lahaina, HI|MSA Purchase and Refi|1988-06-01
+28020|Kalamazoo-Portage, MI|MSA Purchase and Refi|1978-06-01
+28100|Kankakee, IL|MSA Purchase and Refi|1987-09-01
+28140|Kansas City, MO-KS|MSA Purchase Only|1991-03-01
+28420|Kennewick-Richland, WA|MSA Purchase and Refi|1979-03-01
+28660|Killeen-Temple, TX|MSA Purchase and Refi|1986-03-01
+28700|Kingsport-Bristol-Bristol, TN-VA|MSA Purchase and Refi|1987-06-01
+28740|Kingston, NY|MSA Purchase and Refi|1986-09-01
+28940|Knoxville, TN|MSA Purchase Only|1991-03-01
+29020|Kokomo, IN|MSA Purchase and Refi|1986-06-01
+29100|La Crosse-Onalaska, WI-MN|MSA Purchase and Refi|1984-12-01
+29180|Lafayette, LA|MSA Purchase and Refi|1980-09-01
+29200|Lafayette-West Lafayette, IN|MSA Purchase and Refi|1985-06-01
+29340|Lake Charles, LA|MSA Purchase and Refi|1988-09-01
+29404|Lake County-Kenosha County, IL-WI  (MSAD)|MSA Purchase Only|1991-03-01
+29420|Lake Havasu City-Kingman, AZ|MSA Purchase and Refi|1986-12-01
+29460|Lakeland-Winter Haven, FL|MSA Purchase and Refi|1982-12-01
+29540|Lancaster, PA|MSA Purchase and Refi|1979-06-01
+29620|Lansing-East Lansing, MI|MSA Purchase and Refi|1978-06-01
+29700|Laredo, TX|MSA Purchase and Refi|1992-12-01
+29740|Las Cruces, NM|MSA Purchase and Refi|1985-03-01
+29820|Las Vegas-Henderson-Paradise, NV|MSA Purchase Only|1991-03-01
+29940|Lawrence, KS|MSA Purchase and Refi|1985-12-01
+30020|Lawton, OK|MSA Purchase and Refi|1992-12-01
+30140|Lebanon, PA|MSA Purchase and Refi|1987-06-01
+30300|Lewiston, ID-WA|MSA Purchase and Refi|1991-09-01
+30340|Lewiston-Auburn, ME|MSA Purchase and Refi|1987-03-01
+30460|Lexington-Fayette, KY|MSA Purchase and Refi|1979-06-01
+30620|Lima, OH|MSA Purchase and Refi|1983-06-01
+30700|Lincoln, NE|MSA Purchase and Refi|1979-06-01
+30780|Little Rock-North Little Rock-Conway, AR|MSA Purchase Only|1991-03-01
+30860|Logan, UT-ID|MSA Purchase and Refi|1987-03-01
+30980|Longview, TX|MSA Purchase and Refi|1983-06-01
+31020|Longview, WA|MSA Purchase and Refi|1980-09-01
+31084|Los Angeles-Long Beach-Glendale, CA  (MSAD)|MSA Purchase Only|1991-03-01
+31140|Louisville/Jefferson County, KY-IN|MSA Purchase Only|1991-03-01
+31180|Lubbock, TX|MSA Purchase and Refi|1980-03-01
+31340|Lynchburg, VA|MSA Purchase and Refi|1986-06-01
+31420|Macon, GA|MSA Purchase and Refi|1980-09-01
+31460|Madera, CA|MSA Purchase and Refi|1983-06-01
+31540|Madison, WI|MSA Purchase and Refi|1976-12-01
+31700|Manchester-Nashua, NH|MSA Purchase and Refi|1981-09-01
+31740|Manhattan, KS|MSA Purchase and Refi|1987-09-01
+31860|Mankato-North Mankato, MN|MSA Purchase and Refi|1987-12-01
+31900|Mansfield, OH|MSA Purchase and Refi|1984-06-01
+32580|McAllen-Edinburg-Mission, TX|MSA Purchase and Refi|1987-06-01
+32780|Medford, OR|MSA Purchase and Refi|1980-09-01
+32820|Memphis, TN-MS-AR|MSA Purchase Only|1991-03-01
+32900|Merced, CA|MSA Purchase and Refi|1979-06-01
+33124|Miami-Miami Beach-Kendall, FL  (MSAD)|MSA Purchase Only|1991-03-01
+33140|Michigan City-La Porte, IN|MSA Purchase and Refi|1986-06-01
+33220|Midland, MI|MSA Purchase and Refi|1986-06-01
+33260|Midland, TX|MSA Purchase and Refi|1981-06-01
+33340|Milwaukee-Waukesha-West Allis, WI|MSA Purchase Only|1991-03-01
+33460|Minneapolis-St. Paul-Bloomington, MN-WI|MSA Purchase Only|1991-03-01
+33540|Missoula, MT|MSA Purchase and Refi|1987-09-01
+33660|Mobile, AL|MSA Purchase and Refi|1984-03-01
+33700|Modesto, CA|MSA Purchase and Refi|1977-06-01
+33740|Monroe, LA|MSA Purchase and Refi|1985-06-01
+33780|Monroe, MI|MSA Purchase and Refi|1980-09-01
+33860|Montgomery, AL|MSA Purchase and Refi|1986-06-01
+33874|Montgomery County-Bucks County-Chester County, PA  (MSAD)|MSA Purchase Only|1991-03-01
+34060|Morgantown, WV|MSA Purchase and Refi|1993-06-01
+34100|Morristown, TN|MSA Purchase and Refi|1993-06-01
+34580|Mount Vernon-Anacortes, WA|MSA Purchase and Refi|1986-03-01
+34620|Muncie, IN|MSA Purchase and Refi|1991-06-01
+34740|Muskegon, MI|MSA Purchase and Refi|1985-09-01
+34820|Myrtle Beach-Conway-North Myrtle Beach, SC-NC|MSA Purchase and Refi|1986-06-01
+34900|Napa, CA|MSA Purchase and Refi|1978-12-01
+34940|Naples-Immokalee-Marco Island, FL|MSA Purchase and Refi|1984-09-01
+34980|Nashville-Davidson--Murfreesboro--Franklin, TN|MSA Purchase Only|1991-03-01
+35004|Nassau County-Suffolk County, NY  (MSAD)|MSA Purchase Only|1991-03-01
+35084|Newark, NJ-PA  (MSAD)|MSA Purchase Only|1991-03-01
+35100|New Bern, NC|MSA Purchase and Refi|1988-03-01
+35300|New Haven-Milford, CT|MSA Purchase Only|1991-03-01
+35380|New Orleans-Metairie, LA|MSA Purchase Only|1991-03-01
+35614|New York-Jersey City-White Plains, NY-NJ  (MSAD)|MSA Purchase Only|1991-03-01
+35660|Niles-Benton Harbor, MI|MSA Purchase and Refi|1982-12-01
+35840|North Port-Sarasota-Bradenton, FL|MSA Purchase Only|1991-03-01
+35980|Norwich-New London, CT|MSA Purchase and Refi|1985-09-01
+36084|Oakland-Hayward-Berkeley, CA  (MSAD)|MSA Purchase Only|1991-03-01
+36100|Ocala, FL|MSA Purchase and Refi|1986-06-01
+36140|Ocean City, NJ|MSA Purchase and Refi|1986-03-01
+36220|Odessa, TX|MSA Purchase and Refi|1983-03-01
+36260|Ogden-Clearfield, UT|MSA Purchase and Refi|1978-06-01
+36420|Oklahoma City, OK|MSA Purchase Only|1991-03-01
+36500|Olympia-Tumwater, WA|MSA Purchase and Refi|1981-09-01
+36540|Omaha-Council Bluffs, NE-IA|MSA Purchase Only|1991-03-01
+36740|Orlando-Kissimmee-Sanford, FL|MSA Purchase Only|1991-03-01
+36780|Oshkosh-Neenah, WI|MSA Purchase and Refi|1985-09-01
+36980|Owensboro, KY|MSA Purchase and Refi|1986-12-01
+37100|Oxnard-Thousand Oaks-Ventura, CA|MSA Purchase Only|1991-03-01
+37340|Palm Bay-Melbourne-Titusville, FL|MSA Purchase and Refi|1980-06-01
+37460|Panama City, FL|MSA Purchase and Refi|1986-06-01
+37620|Parkersburg-Vienna, WV|MSA Purchase and Refi|1990-12-01
+37860|Pensacola-Ferry Pass-Brent, FL|MSA Purchase and Refi|1983-06-01
+37900|Peoria, IL|MSA Purchase and Refi|1979-09-01
+37964|Philadelphia, PA  (MSAD)|MSA Purchase Only|1991-03-01
+38060|Phoenix-Mesa-Scottsdale, AZ|MSA Purchase Only|1991-03-01
+38220|Pine Bluff, AR|MSA Purchase and Refi|1993-06-01
+38300|Pittsburgh, PA|MSA Purchase Only|1991-03-01
+38340|Pittsfield, MA|MSA Purchase and Refi|1986-06-01
+38540|Pocatello, ID|MSA Purchase and Refi|1989-09-01
+38860|Portland-South Portland, ME|MSA Purchase and Refi|1983-03-01
+38900|Portland-Vancouver-Hillsboro, OR-WA|MSA Purchase Only|1991-03-01
+38940|Port St. Lucie, FL|MSA Purchase and Refi|1979-06-01
+39140|Prescott, AZ|MSA Purchase and Refi|1987-03-01
+39300|Providence-Warwick, RI-MA|MSA Purchase Only|1991-03-01
+39340|Provo-Orem, UT|MSA Purchase and Refi|1983-03-01
+39380|Pueblo, CO|MSA Purchase and Refi|1978-12-01
+39460|Punta Gorda, FL|MSA Purchase and Refi|1987-06-01
+39540|Racine, WI|MSA Purchase and Refi|1983-03-01
+39580|Raleigh, NC|MSA Purchase Only|1991-03-01
+39660|Rapid City, SD|MSA Purchase and Refi|1992-03-01
+39740|Reading, PA|MSA Purchase and Refi|1980-09-01
+39820|Redding, CA|MSA Purchase and Refi|1980-06-01
+39900|Reno, NV|MSA Purchase and Refi|1978-06-01
+40060|Richmond, VA|MSA Purchase Only|1991-03-01
+40140|Riverside-San Bernardino-Ontario, CA|MSA Purchase Only|1991-03-01
+40220|Roanoke, VA|MSA Purchase and Refi|1980-09-01
+40340|Rochester, MN|MSA Purchase and Refi|1984-03-01
+40380|Rochester, NY|MSA Purchase Only|1991-03-01
+40420|Rockford, IL|MSA Purchase and Refi|1978-09-01
+40484|Rockingham County-Strafford County, NH  (MSAD)|MSA Purchase and Refi|1983-09-01
+40580|Rocky Mount, NC|MSA Purchase and Refi|1985-06-01
+40660|Rome, GA|MSA Purchase and Refi|1987-12-01
+40900|Sacramento--Roseville--Arden-Arcade, CA|MSA Purchase Only|1991-03-01
+40980|Saginaw, MI|MSA Purchase and Refi|1980-12-01
+41060|St. Cloud, MN|MSA Purchase and Refi|1988-06-01
+41100|St. George, UT|MSA Purchase and Refi|1986-06-01
+41140|St. Joseph, MO-KS|MSA Purchase and Refi|1986-09-01
+41180|St. Louis, MO-IL|MSA Purchase Only|1991-03-01
+41420|Salem, OR|MSA Purchase and Refi|1978-06-01
+41500|Salinas, CA|MSA Purchase and Refi|1977-12-01
+41540|Salisbury, MD-DE|MSA Purchase and Refi|1986-09-01
+41620|Salt Lake City, UT|MSA Purchase Only|1991-03-01
+41660|San Angelo, TX|MSA Purchase and Refi|1985-09-01
+41700|San Antonio-New Braunfels, TX|MSA Purchase Only|1991-03-01
+41740|San Diego-Carlsbad, CA|MSA Purchase Only|1991-03-01
+41884|San Francisco-Redwood City-South San Francisco, CA  (MSAD)|MSA Purchase Only|1991-03-01
+41940|San Jose-Sunnyvale-Santa Clara, CA|MSA Purchase Only|1991-03-01
+42020|San Luis Obispo-Paso Robles-Arroyo Grande, CA|MSA Purchase and Refi|1978-03-01
+42034|San Rafael, CA  (MSAD)|MSA Purchase and Refi|1976-12-01
+42100|Santa Cruz-Watsonville, CA|MSA Purchase and Refi|1978-03-01
+42140|Santa Fe, NM|MSA Purchase and Refi|1984-09-01
+42200|Santa Maria-Santa Barbara, CA|MSA Purchase and Refi|1977-09-01
+42220|Santa Rosa, CA|MSA Purchase and Refi|1976-12-01
+42340|Savannah, GA|MSA Purchase and Refi|1984-06-01
+42540|Scranton--Wilkes-Barre--Hazleton, PA|MSA Purchase and Refi|1984-06-01
+42644|Seattle-Bellevue-Everett, WA  (MSAD)|MSA Purchase Only|1991-03-01
+42680|Sebastian-Vero Beach, FL|MSA Purchase and Refi|1984-03-01
+42700|Sebring, FL|MSA Purchase and Refi|1994-06-01
+43100|Sheboygan, WI|MSA Purchase and Refi|1986-06-01
+43300|Sherman-Denison, TX|MSA Purchase and Refi|1987-03-01
+43340|Shreveport-Bossier City, LA|MSA Purchase and Refi|1984-06-01
+43420|Sierra Vista-Douglas, AZ|MSA Purchase and Refi|1992-06-01
+43524|Silver Spring-Frederick-Rockville, MD  (MSAD)|MSA Purchase Only|1991-03-01
+43580|Sioux City, IA-NE-SD|MSA Purchase and Refi|1988-09-01
+43620|Sioux Falls, SD|MSA Purchase and Refi|1986-09-01
+43780|South Bend-Mishawaka, IN-MI|MSA Purchase and Refi|1982-12-01
+43900|Spartanburg, SC|MSA Purchase and Refi|1986-12-01
+44060|Spokane-Spokane Valley, WA|MSA Purchase and Refi|1977-09-01
+44100|Springfield, IL|MSA Purchase and Refi|1984-12-01
+44140|Springfield, MA|MSA Purchase and Refi|1979-09-01
+44180|Springfield, MO|MSA Purchase and Refi|1984-06-01
+44220|Springfield, OH|MSA Purchase and Refi|1982-12-01
+44300|State College, PA|MSA Purchase and Refi|1989-09-01
+44420|Staunton-Waynesboro, VA|MSA Purchase and Refi|1987-12-01
+44700|Stockton-Lodi, CA|MSA Purchase Only|1991-03-01
+44940|Sumter, SC|MSA Purchase and Refi|1990-09-01
+45060|Syracuse, NY|MSA Purchase Only|1991-03-01
+45104|Tacoma-Lakewood, WA  (MSAD)|MSA Purchase Only|1991-03-01
+45220|Tallahassee, FL|MSA Purchase and Refi|1980-12-01
+45300|Tampa-St. Petersburg-Clearwater, FL|MSA Purchase Only|1991-03-01
+45460|Terre Haute, IN|MSA Purchase and Refi|1992-09-01
+45500|Texarkana, TX-AR|MSA Purchase and Refi|1992-06-01
+45540|The Villages, FL|MSA Purchase and Refi|2001-03-01
+45780|Toledo, OH|MSA Purchase and Refi|1978-12-01
+45820|Topeka, KS|MSA Purchase and Refi|1978-06-01
+45940|Trenton, NJ|MSA Purchase and Refi|1979-06-01
+46060|Tucson, AZ|MSA Purchase Only|1991-03-01
+46140|Tulsa, OK|MSA Purchase Only|1991-03-01
+46220|Tuscaloosa, AL|MSA Purchase and Refi|1990-06-01
+46340|Tyler, TX|MSA Purchase and Refi|1985-09-01
+46520|Honolulu ('Urban Honolulu'), HI|MSA Purchase Only|1991-03-01
+46540|Utica-Rome, NY|MSA Purchase and Refi|1986-06-01
+46660|Valdosta, GA|MSA Purchase and Refi|1993-09-01
+46700|Vallejo-Fairfield, CA|MSA Purchase and Refi|1978-03-01
+47020|Victoria, TX|MSA Purchase and Refi|1991-12-01
+47220|Vineland-Bridgeton, NJ|MSA Purchase and Refi|1986-12-01
+47260|Virginia Beach-Norfolk-Newport News, VA-NC|MSA Purchase Only|1991-03-01
+47300|Visalia-Porterville, CA|MSA Purchase and Refi|1978-06-01
+47380|Waco, TX|MSA Purchase and Refi|1986-06-01
+47460|Walla Walla, WA|MSA Purchase and Refi|1989-12-01
+47580|Warner Robins, GA|MSA Purchase and Refi|1986-06-01
+47664|Warren-Troy-Farmington Hills, MI  (MSAD)|MSA Purchase Only|1991-03-01
+47894|Washington-Arlington-Alexandria, DC-VA-MD-WV  (MSAD)|MSA Purchase Only|1991-03-01
+47940|Waterloo-Cedar Falls, IA|MSA Purchase and Refi|1983-06-01
+48060|Watertown-Fort Drum, NY|MSA Purchase and Refi|1993-12-01
+48140|Wausau, WI|MSA Purchase and Refi|1986-06-01
+48260|Weirton-Steubenville, WV-OH|MSA Purchase and Refi|1993-12-01
+48300|Wenatchee, WA|MSA Purchase and Refi|1978-09-01
+48424|West Palm Beach-Boca Raton-Delray Beach, FL  (MSAD)|MSA Purchase Only|1991-03-01
+48540|Wheeling, WV-OH|MSA Purchase and Refi|1993-06-01
+48620|Wichita, KS|MSA Purchase Only|1991-03-01
+48660|Wichita Falls, TX|MSA Purchase and Refi|1987-03-01
+48700|Williamsport, PA|MSA Purchase and Refi|1990-06-01
+48864|Wilmington, DE-MD-NJ  (MSAD)|MSA Purchase Only|1991-03-01
+48900|Wilmington, NC|MSA Purchase and Refi|1985-03-01
+49020|Winchester, VA-WV|MSA Purchase and Refi|1989-12-01
+49180|Winston-Salem, NC|MSA Purchase Only|1991-03-01
+49340|Worcester, MA-CT|MSA Purchase Only|1991-03-01
+49420|Yakima, WA|MSA Purchase and Refi|1986-06-01
+49620|York-Hanover, PA|MSA Purchase and Refi|1984-03-01
+49660|Youngstown-Warren-Boardman, OH-PA|MSA Purchase and Refi|1985-09-01
+49700|Yuba City, CA|MSA Purchase and Refi|1987-03-01
+49740|Yuma, AZ|MSA Purchase and Refi|1989-03-01
