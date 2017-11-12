@@ -1,26 +1,25 @@
-nat = subset(read.table("http://www.fhfa.gov/DataTools/Downloads/Documents/HPI/HPI_PO_us_and_census.txt", header = TRUE), division == "USA")
-nat$id = 0
-nat$type = "National"
-nat = nat[, c("id", "division", "year", "qtr", "index_po_not_seasonally_adjusted", "type")]
+library(tidyverse)
 
-states = read.table("http://www.fhfa.gov/DataTools/Downloads/Documents/HPI/HPI_PO_state.txt", header = TRUE, sep = "\t")
-states$id = as.numeric(factor(states$state))
-states$type = "State"
-states = states[, c("id", "state", "yr", "qtr", "index_nsa", "type")]
+nat = read_delim("https://www.fhfa.gov/DataTools/Downloads/Documents/HPI/HPI_PO_us_and_census.txt", delim = "\t") %>%
+  filter(division == "USA") %>%
+  mutate(id = 0, type = "National") %>%
+  select(id, division, year, qtr, index_po_not_seasonally_adjusted, type)
 
-po = read.table("http://www.fhfa.gov/DataTools/Downloads/Documents/HPI/HPI_PO_metro.txt", header = TRUE)
-po$type = "MSA Purchase Only"
-po = po[, c("cbsa", "metro_name", "yr", "qtr", "index_nsa", "type")]
+states = read_delim("https://www.fhfa.gov/DataTools/Downloads/Documents/HPI/HPI_PO_state.txt", delim = "\t") %>%
+  mutate(id = as.numeric(factor(state)), type = "State") %>%
+  select(id, state, yr, qtr, index_nsa, type)
 
-ref = read.table("http://www.fhfa.gov/DataTools/Downloads/Documents/HPI/HPI_AT_metro.txt", header = FALSE, sep = "\t")
-names(ref) = c("metro_name", "cbsa", "yr", "qtr", "index_nsa", "change")
-ref$type = "MSA Purchase and Refi"
-ref = ref[, c("cbsa", "metro_name", "yr", "qtr", "index_nsa", "type")]
-ref$index_nsa = as.character(ref$index_nsa)
-ref$index_nsa[ref$index_nsa == "-"] = NA
-ref$index_nsa = as.numeric(ref$index_nsa)
-ref = ref[!is.na(ref$index_nsa), ]
-ref = ref[!(ref$cbsa %in% unique(po$cbsa)), ]
+po = read_delim("https://www.fhfa.gov/DataTools/Downloads/Documents/HPI/HPI_PO_metro.txt", delim = "\t") %>%
+  mutate(type = "MSA Purchase Only") %>%
+  select(cbsa, metro_name, yr, qtr, index_nsa, type)
+
+ref = read_delim("http://www.fhfa.gov/DataTools/Downloads/Documents/HPI/HPI_AT_metro.txt",
+                 delim = "\t",
+                 na = "-",
+                 col_names = c("metro_name", "cbsa", "yr", "qtr", "index_nsa", "change")) %>%
+  mutate(type = "MSA Purchase and Refi") %>%
+  filter(!is.na(index_nsa), !(cbsa %in% unique(po$cbsa))) %>%
+  select(cbsa, metro_name, yr,  qtr, index_nsa, type)
 
 names_vector = c("id", "name", "yr", "qtr", "index_nsa", "type")
 names(nat) = names_vector
@@ -28,39 +27,41 @@ names(states) = names_vector
 names(po) = names_vector
 names(ref) = names_vector
 
-hpi = rbind(nat, states, po, ref)
-
-hpi$loghpi = log(hpi$index_nsa)
-hpi$month = hpi$qtr * 3
+hpi = bind_rows(nat, states, po, ref) %>%
+  mutate(
+    loghpi = log(index_nsa),
+    month = qtr * 3
+  )
 
 ids = sort(unique(hpi$id))
 
 interpolate_hpi = function(hpi_id) {
-  df = subset(hpi, id == hpi_id)
-  
-  df$xval = df$yr * 12 + df$month - 1
-  
+  df = filter(hpi, id == hpi_id) %>%
+    mutate(xval = yr * 12 + month - 1)
+
   interp = approx(x = df$xval, y = df$loghpi, xout = min(df$xval):max(df$xval))
-  
-  output = data.frame(
-    id = as.numeric(df$id[1]),
-    name = as.character(df$name[1]),
+
+  data_frame(
+    id = hpi_id,
+    name = df$name[1],
     year = interp$x %/% 12,
     month = interp$x %% 12 + 1,
     hpi = exp(interp$y),
-    type = as.character(df$type[1]),
-    stringsAsFactors = FALSE
+    type = df$type[1]
   )
-  
-  return(output)
 }
 
-processed_hpi = do.call("rbind", lapply(ids, function(x) interpolate_hpi(x)))
-processed_hpi$date = as.Date(paste(processed_hpi$year, processed_hpi$month, "01", sep="-"))
+processed_hpi = map(ids, interpolate_hpi) %>%
+  bind_rows() %>%
+  mutate(date = as.Date(paste(year, month, "01", sep = "-")))
 
-interpolated_hpi_values = processed_hpi[, c("id", "date", "hpi")]
+interpolated_hpi_values = processed_hpi %>%
+  select(id, date, hpi)
 
-hpi_index_codes = processed_hpi[!duplicated(processed_hpi[, c("id", "name", "type")]), c("id", "name", "type", "date")]
+hpi_index_codes = processed_hpi %>%
+  group_by(id, name, type) %>%
+  summarize(date = min(date)) %>%
+  ungroup()
 
-write.table(interpolated_hpi_values, file = "interpolated_hpi_values.txt", sep="|", row.names = FALSE, col.names = FALSE, quote = FALSE)
-write.table(hpi_index_codes, file = "hpi_index_codes.txt", sep="|", row.names = FALSE, col.names = FALSE, quote = FALSE)
+write_delim(interpolated_hpi_values, path = "interpolated_hpi_values.txt", delim = "|", col_names = FALSE)
+write_delim(hpi_index_codes, path = "hpi_index_codes.txt", delim = "|", col_names = FALSE)
