@@ -73,7 +73,7 @@ INSERT INTO loans (
   seller_id, servicer_id, vintage, hpi_index_id, hpi_at_origination,
   final_zero_balance_code, final_zero_balance_date, first_serious_dq_date,
   sato, co_borrower_credit_score, mortgage_insurance_type,
-  relocation_mortgage_indicator
+  relocation_mortgage_indicator, pre_harp_loan_sequence_number
 )
 SELECT
   (SELECT id FROM agencies WHERE name = 'Fannie Mae'),
@@ -114,7 +114,8 @@ SELECT
                             END),
   co_borrower_credit_score,
   mortgage_insurance_type,
-  relocation_mortgage_indicator
+  relocation_mortgage_indicator,
+  harp.pre_harp_loan_sequence_number
 FROM loans_raw_fannie l
   LEFT JOIN servicers sel
     ON l.seller_name = sel.name
@@ -135,7 +136,9 @@ FROM loans_raw_fannie l
     ON hpi.hpi_index_id = COALESCE(COALESCE(hpi_msa.id, hpi_state.id), 0)
     AND hpi.date = (to_date(first_payment_date, 'MM/YYYY') - interval '2 months')
   LEFT JOIN mortgage_rates rates
-    ON rates.month = (to_date(first_payment_date, 'MM/YYYY') - interval '2 months');
+    ON rates.month = (to_date(first_payment_date, 'MM/YYYY') - interval '2 months')
+  LEFT JOIN fannie_harp_mapping harp
+    ON l.loan_sequence_number = harp.post_harp_loan_sequence_number;
 
 INSERT INTO monthly_observations (
   loan_id, date, current_upb, previous_upb, dq_status, previous_dq_status,
