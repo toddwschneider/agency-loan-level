@@ -41,7 +41,7 @@ interpolate_hpi = function(hpi_id) {
 
   interp = approx(x = df$xval, y = df$loghpi, xout = min(df$xval):max(df$xval))
 
-  data_frame(
+  tibble(
     id = hpi_id,
     name = df$name[1],
     year = interp$x %/% 12,
